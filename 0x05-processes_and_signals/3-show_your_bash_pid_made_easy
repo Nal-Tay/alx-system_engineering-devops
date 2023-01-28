@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# pid of word "bash"
+
+pgrep -l "bash"
